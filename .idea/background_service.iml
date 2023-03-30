@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service_android/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service_android/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service_android/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_background_service_platform_interface/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
